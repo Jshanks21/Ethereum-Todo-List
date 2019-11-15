@@ -1,2 +1,2 @@
 # Ethereum-Todo-List
-A to do list connected to the the Ethereum blockchain using the web3 library. 
+A to do list built on the Ethereum blockchain. Not intended for production. Made for educational purposes. 
